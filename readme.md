@@ -1,9 +1,9 @@
 ## Table of Content
 1. [Opening](#opening)
 1. [Release -1](#release--1)
-1. [Release 0 - Let's Make the Class](#release-0---let's-make-the-class)
+1. [Release 0 - Let's Make the Class](#release-0---lets-make-the-class)
 1. [Release 1 - Getting Us Rich](#release-1---getting-us-rich)
-1. [Release 2 - Let's Make the Machine](#release-2---let's-make-the-machine)
+1. [Release 2 - Let's Make the Machine](#release-2---lets-make-the-machine)
 1. [Closing](#closing)
 
 ### Opening
