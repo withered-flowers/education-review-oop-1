@@ -4,6 +4,7 @@
 1. [Release 0 - Let's Make the Class](#release-0---lets-make-the-class)
 1. [Release 1 - Getting Us Rich](#release-1---getting-us-rich)
 1. [Release 2 - Let's Make the Machine](#release-2---lets-make-the-machine)
+1. [Release 3 - One Method Many Meanings](#release-3---one-method-many-meanings)
 1. [Closing](#closing)
 
 ### Opening
@@ -95,4 +96,5 @@ Sehingga method ini dapat dijalankan ketika `GachaGenerator` telah berhasil
 mengenerate gacha yang ada.
 
 ### Closing
-That's All Folks
+Mudah bukan membuatnya?  
+![easy](assets/easy.gif)
