@@ -6,6 +6,10 @@ class Character {
     this.weaponName = weaponName;
     this.rank = rank;
   }
+
+  showMe() {
+    
+  }
 }
 
 module.exports = Character
